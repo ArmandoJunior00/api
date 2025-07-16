@@ -74,7 +74,7 @@ br.com.api.controller.ApiController
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sua-api-tarefas.git
+   git clone https://github.com/ArmandoJunior00/api
    ```
 2. Abra o projeto em sua IDE favorita (IntelliJ, Eclipse, VSCode).
 3. Certifique-se de ter o Java e o Maven instalados.
