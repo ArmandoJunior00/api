@@ -1,18 +1,19 @@
-# 📌 API de Tarefas com Spring Boot
+# 📝 API de Tarefas Simples com Spring Boot
 
-Esta é uma API REST simples desenvolvida com **Spring Boot** para gerenciamento de tarefas. Permite **criar**, **listar** e **remover** tarefas usando os métodos HTTP `POST`, `GET` e `DELETE`.
+Esta é uma API simples desenvolvida com **Java Spring Boot** que permite realizar operações básicas de CRUD em uma lista de tarefas. Os dados são armazenados temporariamente em memória (através de uma lista), o que torna essa aplicação ideal para fins educacionais e testes locais.
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
 - Java 17+
 - Spring Boot
 - Spring Web
+- Jackson (para serialização JSON)
 
 ---
 
-## ▶️ Como executar o projeto
+## 📂 Estrutura do Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/api.git
-   cd api
+O projeto possui um único controller:
+
